@@ -1,16 +1,9 @@
-<!--- snake --->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-    alt="snake" /></a>
-</div>
-
 ---
-### eai🤙🏻
+### *eai🤙🏻*
 
-eu me chamo **Kauê**
+*My name is **Kauê** and I'm 15 years old*
 
-- eu sou estudante do [alura](www.alura.com.br)
-- entra em contato cmg
-- @kauesx.00
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauesx.00?igsh=MWFyaHFxeWo1Z2NiZw==)
+[![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kzin1x?_t=8oXmJzhu83S&_r=1)
 
 ![image](https://media1.tenor.com/m/UmWmiibzlZMAAAAC/pixel-rain.gif)
