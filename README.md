@@ -1,3 +1,10 @@
+<!--- snake --->
+<div align="center">
+  <img src="https://github.com/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+    alt="snake" /></a>
+</div>
+
+---
 ### eai🤙🏻
 
 eu me chamo **Kauê**
@@ -6,4 +13,4 @@ eu me chamo **Kauê**
 - entra em contato cmg
 - @kauesx.00
 
-![image](https://media1.tenor.com/m/YGV1m0f5oOAAAAAC/homer-simpson-hide-in-shrubs.gif)
+![image](https://media1.tenor.com/m/UmWmiibzlZMAAAAC/pixel-rain.gif)
