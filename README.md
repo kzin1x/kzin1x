@@ -12,3 +12,6 @@ _𝐞𝐮 𝐦𝐞 𝐜𝐡𝐚𝐦𝐨 *𝐤𝐚𝐮𝐞* 𝐞 𝐭𝐞𝐧𝐡
 ![image](https://media1.tenor.com/m/UmWmiibzlZMAAAAC/pixel-rain.gif)
 
 ---
+
+---
+![khan academy](https://github.com/ilytobias/Khan-Destroyer/blob/main/cheats/answer_overwrite.md)
